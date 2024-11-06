@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>a00wj-ge2av.svg</file>
+    </qresource>
+</RCC>
